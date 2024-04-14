@@ -1,0 +1,17 @@
+Game Description
+
+This game is heavily based off of Cool Math Game's Hill Climb Racing. The game is simple,
+travel as far as you can in a physics based jeep before you run out of gas. The game also ends if you flip your car and kill the driver. 
+
+Controls:
+A to move backwards
+B to move forwards
+
+Character behavior:
+The driver in the car has a physics based head that bobbles back and fourth for your own entertainment.
+
+Challenges:
+The most challenging part of the game was the terrain generation. This is because I used an algorithm called Perlin noise and went through many failed attempts before I was able to make it work. The terrain generation also involved using a closed shape sprite object which I was unfamiliar with.
+
+Time to Complete:
+3 days
